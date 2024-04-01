@@ -11,7 +11,7 @@ GDRIVE_URL_ID = '1JbPdX41zBwg7c6ByHfhO1Zn-5Y8tnSM3'  # Optional if using Google 
 BLEND_FILE_LINK = f'https://drive.google.com/uc?id={GDRIVE_URL_ID}'  # Optional if using Google Drive link
 BLENDER_TAR_LINK = 'https://download.blender.org/release/Blender4.0/blender-4.0.1-linux-x64.tar.xz'
 BLENDER_TAR_PATH = os.path.join(BLENDER_PARENT_DIR, 'blender-4.0.1-linux-x64.tar.xz')
-BLENDER_DIRECTORY = '/path/to/blender/directory'
+BLENDER_DIRECTORY = '/content/blender-4.0.1-linux-x64/'
 BLENDER_EXECUTABLE_PATH = os.path.join(BLENDER_DIRECTORY, 'blender')
 
 
